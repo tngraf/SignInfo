@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SignInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"E:\\PROG\\Dot NET\\Tools\\2020\\SignInfo\\__internal__\\Newtonsoft.Json.dll\"",
+      "workingDirectory": "E:\\PROG\\Dot NET\\Tools\\2020\\CodeSigningDemo"
+    }
+  }
+}

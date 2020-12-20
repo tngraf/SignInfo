@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignInfo", "SignInfo\SignInfo.csproj", "{78A34DDD-46EF-48F5-B5C7-521600279B59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{44508A63-9426-4A91-96CE-CDDDFCA64367}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		SignInfo.ruleset = SignInfo.ruleset
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{ECCFEAEC-7A71-47EB-8671-A5C0D068A2DD}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A34DDD-46EF-48F5-B5C7-521600279B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A34DDD-46EF-48F5-B5C7-521600279B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A34DDD-46EF-48F5-B5C7-521600279B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A34DDD-46EF-48F5-B5C7-521600279B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33C7BF3-96B5-4ED5-B000-697E950F1840}
+	EndGlobalSection
+EndGlobal

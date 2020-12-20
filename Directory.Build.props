@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <Version>0.1</Version>
+    <FileVersion>0.1</FileVersion>
+    <Product>SignInfo</Product>
+    <Company></Company>
+    <Copyright>Copyright (C) 2020 T. Graf</Copyright>
+    <Authors>T. Graf</Authors>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
