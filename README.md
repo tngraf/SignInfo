@@ -1,6 +1,8 @@
 # SignInfo
 
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[!.Net Version](https://img.shields.io/badge/System-.Net%20Core%203.1-yellow?logo=.net)
+![Build .NET Core](https://github.com/tngraf/CSharp-GitHub-Example/workflows/Build%20.NET%20Core/badge.svg)
 
 This small command line tool displays the code signing/authenticode/certificate information of binaries.  
 The output is similar to the output of [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck). SignInfo is written in C# and uses only .Net to retrieve all information.
